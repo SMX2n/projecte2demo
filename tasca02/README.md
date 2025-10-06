@@ -6,3 +6,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Solució
 
 A l'arxiu [solucio.md](solucio.md) hi ha solució descrita.
+
+[Tornar pàgina projecte](../README.md)
