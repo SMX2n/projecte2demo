@@ -14,4 +14,4 @@ La solució de l'activitat es troba a l'arxiu [solucio.md](solucio.md)
 
 
 
-[Tornar a pàgina principal](../README.md)
+[Tornar a pàgina principal](../)
