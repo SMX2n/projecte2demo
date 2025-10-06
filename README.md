@@ -17,4 +17,9 @@ Per inserir una imatge
 ![Descripció de la imatge](ruta de la imatge)
 ```
 
+Per ver enllaçps a altres pàgines md
+
+```
+[Nom](ruta)
+```
 
