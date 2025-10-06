@@ -10,3 +10,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Resolució
 
+La solució de l'activitat es troba a l'arxiu [solucio.md](solucio.md)
+
+
+
+[Tornar a pàgina principal](../README.md)
