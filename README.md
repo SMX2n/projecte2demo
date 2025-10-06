@@ -1,2 +1,3 @@
-# projecte2demo
-Repositori projecte 2 (demo de classe)
+# Demo de repositori pel projecte 2
+
+Aquí haurieu de descriure el projecte
